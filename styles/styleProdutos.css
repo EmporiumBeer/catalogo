@@ -10,6 +10,14 @@ text-align: center;
 font-size: 13px;
 }
 
+.PtextoCoxinha{
+    text-align:center;
+    font-size: 12px; 
+    margin: auto;
+    width: 200px;  
+    margin: 0px 0px 0px 10px;
+}
+
 body {
     display: flex;
     flex-direction: column;
